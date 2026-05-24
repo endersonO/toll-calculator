@@ -50,4 +50,4 @@ correctness across edge cases.
   per-language, but no `.editorconfig`).
 - **README mixes languages and tone.** Includes a giphy link and an ironic
   "production-ready" claim — intentional for the exercise, but not something
-  to mirror in the candidate's submission.
+  to mirror in the deliverable.

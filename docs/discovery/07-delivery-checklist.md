@@ -1,6 +1,6 @@
-# 8. Delivery checklist
+# 7. Delivery checklist
 
-A practical checklist for submitting the take-home.
+A practical checklist before delivering the PR.
 
 ## Before writing code
 
@@ -27,7 +27,7 @@ A practical checklist for submitting the take-home.
 ## Tests
 
 - [ ] At least the 10 scenarios listed in
-      [07-recommendations.md](07-recommendations.md) §7.5.
+      [06-recommendations.md](06-recommendations.md) §6.5.
 - [ ] Tests pass locally with one command.
 - [ ] Coverage report optional but appreciated.
 
@@ -49,5 +49,5 @@ In the PR, explicitly list:
 4. Assumptions you made where the README is silent (e.g. timezone, behavior
    on empty input, treatment of the day before a holiday).
 
-That last point is what most candidates skip — and what the interviewer is
-specifically looking for.
+That last point is what most submissions skip — and the one the
+reviewer is specifically looking for.

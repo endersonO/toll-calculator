@@ -2,7 +2,7 @@
 
 ```
 toll-calculator/
-├── README.md          # assignment + gif
+├── README.md          # brief + gif
 ├── C#/                # C# reference implementation
 │   ├── TollCalculator.cs
 │   ├── Vehicle.cs     (interface)

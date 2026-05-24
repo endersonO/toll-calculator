@@ -3,7 +3,8 @@
 > Adapted from Walking Labs' [Harness Engineering][harness] framework.
 > The harness is the methodology that produced the implementation plan
 > and the code; it survives across modules and would apply identically
-> to the next library this candidate writes. The module-specific plan
+> to any other library produced under this harness. The module-specific
+> plan
 > lives in [`plan/`](plan/).
 
 ## What this document is
@@ -21,7 +22,7 @@ implementation plan in [`plan/`](plan/) does not.
 
 ## 1. Why a harness
 
-The interview emphasised that the way I use AI matters. The honest
+The brief emphasised that the way I use AI matters. The honest
 answer is that I do not type prompts directly into a code-generation
 model and accept what comes out — the gap between "looks right" and
 "is right" is too large. Instead I **invest heavily in context** before
@@ -181,9 +182,9 @@ and in the docs themselves.
 
 ---
 
-## 9. Why this matters for the assignment
+## 9. Why this matters
 
-The interview asked how I use AI. The answer in this folder is
+The brief asked how I use AI. The answer in this folder is
 concrete:
 
 - No vibe-coding. Every file has a stated purpose before it is

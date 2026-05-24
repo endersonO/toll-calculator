@@ -1,7 +1,7 @@
 # Discovery — initial findings
 
 Static analysis of the reference C# / Java code that ships with the repo.
-This stage is **only about understanding the input**: what the assignment
+This stage is **only about understanding the input**: what the brief
 asks, what the reference code does (and does wrong), and what the rewrite
 should preserve or change.
 

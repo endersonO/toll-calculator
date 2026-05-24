@@ -1,8 +1,8 @@
-# 7. Reimplementation recommendations
+# 6. Reimplementation recommendations
 
 The reference code is not worth patching. A clean rewrite is faster and
-shows more clearly what the candidate understands. The recommendations below
-are language-agnostic.
+shows the design intent more clearly. The recommendations below are
+language-agnostic.
 
 ## 6.1 Domain model
 
@@ -86,7 +86,7 @@ At minimum, parametrized tests covering:
 
 ## 6.6 Recommended language choice
 
-Per the README, the candidate may pick freely. Practical picks:
+Per the README, the language is open. Practical picks:
 
 - **Kotlin / Python:** fastest to write, easiest test ergonomics.
 - **Go:** tidy, no dependencies, builtin testing.
