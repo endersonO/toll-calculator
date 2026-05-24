@@ -38,7 +38,7 @@ The repository is the deliverable for a hiring conversation for an
 **AI engineer role**. The brief specified:
 
 - **TypeScript** as the target language.
-- Code that is **proud-to-ship-to-production**, not just "passes the test".
+- **Production-grade code**.
 - **Quality through tests** (unit and integration).
 - **AI-augmented development** with a strong focus on *context*, aligned
   with the [harness engineering](https://walkinglabs.github.io/learn-harness-engineering/en/)
